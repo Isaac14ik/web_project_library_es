@@ -284,3 +284,8 @@
 .person__image_size_s {
   width: 80px;
 }
+.person__caption {
+  text-align: center;
+  font-size: 14px;
+  margin: 0;
+}
